@@ -11,6 +11,8 @@ autopep8 = "*"
 [packages]
 requests = "*"
 fastapi = {extras = ["all"],version = "*"}
+gunicorn = "*"
+uvicorn = "*"
 
 [requires]
 python_version = "3.7"
