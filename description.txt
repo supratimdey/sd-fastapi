@@ -1,8 +1,0 @@
-to get to the underlaying virtual env  type 
-
-This is a FastApi[all] rest api service    
-
-pipenv shell at  command promt 
-
-
-it has python 3.7.6 'PE37-Kzg4z4h'
